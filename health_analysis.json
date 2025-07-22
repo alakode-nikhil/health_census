@@ -1,0 +1,111 @@
+{
+
+    "conditions": [
+
+      {
+
+        "name": "Thyroid",
+
+        "imagesrc":"https://www.freepik.com/free-vector/gradien-thyroid-illustration_23178246.htm#fromView=keyword&page=1&position=2&uuid=74fd8f93-1953-4d23-b3d4-c4410eadb5af&query=Thyroid",
+
+        "symptoms": [
+
+          "Fatigue",
+
+          "Weight gain or loss",
+
+          "Dry skin",
+
+          "Muscle weakness",
+
+          "Irregular menstrual periods"
+
+        ],
+
+        "prevention": [
+
+          "Eat a balanced diet",
+
+          "Exercise regularly",
+
+          "Get regular check-ups"
+
+        ],
+
+        "treatment": "Medication like levothyroxine may be prescribed by a doctor."
+
+      },
+
+      {
+
+        "name": "Diabetes",
+
+        "imagesrc":"https://www.freepik.com/free-vector/diabetes-flat-composition-medical-with-patient-symptoms-complications-blood-sugar-meter-treatments-medication_6869548.htm#fromView=search&page=1&position=3&uuid=a9275c1e-afa2-419b-8558-1e054286c8b6&query=Diabetes",
+
+        "symptoms": [
+
+          "Frequent urination",
+
+          "Increased thirst",
+
+          "Blurry vision",
+
+          "Fatigue",
+
+          "Slow healing of cuts or sores"
+
+        ],
+
+        "prevention": [
+
+          "Maintain a healthy weight",
+
+          "Follow a balanced diet",
+
+          "Regular exercise"
+
+        ],
+
+        "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+
+      },
+
+      {
+
+        "name": "High Blood Pressure",
+
+        "imagesrc":"https://www.freepik.com/free-vector/doctor-elderly-couple-tonometer-hight-blood-pressure-tiny-people-high-blood-pressure-hypertension-disease-blood-pressure-control-concept-pinkish-coral-bluevector-isolated-illustration_11664221.htm#fromView=search&page=1&position=5&uuid=c1ddb8bf-d0b5-4def-b9fe-0a02a15357ed&query=High+Blood+Pressure",
+
+        "symptoms": [
+
+          "Headaches",
+
+          "Shortness of breath",
+
+          "Chest pain",
+
+          "Dizziness",
+
+          "Blurred or double vision"
+
+        ],
+
+        "prevention": [
+
+          "Reduce salt intake",
+
+          "Exercise regularly",
+
+          "Maintain a healthy weight"
+
+        ],
+
+        "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+
+      }
+
+    ]
+
+  }
+
+  
